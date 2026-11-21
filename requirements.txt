@@ -1,0 +1,12 @@
+langgraph
+langchain
+langchain-core
+python-dotenv
+pydantic
+pymupdf
+beautifulsoup4
+requests
+streamlit
+fastapi
+uvicorn
+pytest
